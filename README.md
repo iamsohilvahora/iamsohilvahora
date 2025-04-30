@@ -29,13 +29,13 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 4. **Deployment:** Deploying websites using different hosts like GoDaddy, SiteGround, WP Engine.
 
 ## 🏆 Notable Projects:
-- **[Project Name 1](link-to-repo):** Custom theme development for an e-commerce site that boosted sales by 25%.
-- **[Project Name 2](link-to-repo):** Created a custom plugin that enhanced site functionality and reduced page load time by 40%.
+- **[eGifter](https://egifter.co.uk/):** E-commerce, Custom stripe paymemnt (eGifter allows you to easily receive gifts from fans and loved ones through a digital platform.)
+- **[Namechange](https://www.namechange.com/):** E-commerce  (It's USA based site which makes namechange process simple for merriage certificate, court order, etc.)
+- **[Bloom](https://bloomforall.com/):** Multisite (Teen HUB, Parent HUB, Educator HUB – offering guidance on social topics for teenagers and parents.)
 
 ## 📝 Open-Source Contributions:
-I actively contribute to open-source projects in the WordPress community. Some of my contributions include:
-- [Contribution 1](link-to-contribution)
-- [Contribution 2](link-to-contribution)
+I actively contribute into the WordPress community. Some of my contributions include:
+- [Contribution]([https://profile.wordpress.org/sohilvahora96)
 
 ## 🌱 Currently Learning:
 - React Library
