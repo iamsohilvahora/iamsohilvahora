@@ -4,7 +4,7 @@ Great!
 
 # 👋 Hi there, I'm **Sohil Vahora**!
 
-I’m a WordPress Backend Developer with a passion for building high-quality, user-friendly websites that perform well across all devices. My focus is on developing and customizing custom themes, plugins, gutenberg blocks and providing ongoing optimization for a seamless user experience.
+I’m a WordPress Backend Developer with a passion for building high-quality, user-friendly websites that perform well across all devices. My focus is on developing and customizing custom themes, plugins, gutenberg blocks, REST APIs, mutisite and providing ongoing optimization for a seamless user experience.
 
 ## 🚀 What I Do:
 - **Custom Plugin Development** – Developing plugins that extend functionality and improve the WordPress ecosystem.
@@ -35,7 +35,7 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 
 ## 📝 Open-Source Contributions:
 I actively contribute into the WordPress community. Some of my contributions include:
-- [Contribution]([https://profile.wordpress.org/sohilvahora96)
+- [Contribution](https://profile.wordpress.org/sohilvahora96)
 
 ## 🌱 Currently Learning:
 - React Library
