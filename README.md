@@ -15,9 +15,9 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 - **Maintenance & Updates** – Ensuring WordPress sites stay up to date and run smoothly.
 
 ## 🔧 Skills & Technologies:
-- **Languages:** PHP, JavaScript, HTML, CSS, SQL
+- **Languages:** HTML, CSS, JavaScript, PHP, MySQL
 - **Tools:** Git, Composer, npm
-- **Frameworks:** Bootstrap, jQuery, React (for WordPress integration)
+- **Frameworks:** Bootstrap, jQuery, React
 - **CMS Expertise:** WordPress, WooCommerce
 - **Version Control:** Git, GitHub, Bitbucket
 - **Others:** REST API, Elementor, Advanced Custom Fields (ACF), WP-CLI
@@ -29,7 +29,7 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 4. **Deployment:** Deploying websites using different hosts like GoDaddy, SiteGround, WP Engine.
 
 ## 🏆 Notable Projects:
-- **[eGifter](https://egifter.co.uk/):** E-commerce, Custom stripe paymemnt (eGifter allows you to easily receive gifts from fans and loved ones through a digital platform.)
+- **[Octapharma](https://www.octapharmaplasma.com/):** Page Speed Optimization, Custom map functionality, ACF Pro (Octapharma is a global biopharmaceutical company developing and manufacturing plasma-derived and recombinant therapies for patients worldwide.)
 - **[Namechange](https://www.namechange.com/):** E-commerce  (It's USA based site which makes namechange process simple for merriage certificate, court order, etc.)
 - **[Bloom](https://bloomforall.com/):** Multisite (Teen HUB, Parent HUB, Educator HUB – offering guidance on social topics for teenagers and parents.)
 
