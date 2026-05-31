@@ -4,7 +4,7 @@ Great!
 
 # 👋 Hi there, I'm **Sohil Vahora**!
 
-I’m a WordPress Backend Developer with a passion for building high-quality, user-friendly websites that perform well across all devices. My focus is on developing and customizing custom themes, plugins, gutenberg blocks, REST APIs, mutisite and providing ongoing optimization for a seamless user experience.
+I’m a WordPress Backend Developer with a passion for building high-quality, user-friendly websites that perform well across all devices. My focus is on developing and customizing custom themes, plugins, gutenberg blocks, REST APIs, mutisite, AI Integration and providing ongoing optimization for a seamless user experience.
 
 ## 🚀 What I Do:
 - **Custom Plugin Development** – Developing plugins that extend functionality and improve the WordPress ecosystem.
@@ -13,11 +13,13 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 - **Performance Optimization** – Enhancing website speed, security, and SEO for better performance.
 - **E-commerce Development** – Developing WooCommerce sites with custom features and enhanced user experiences.
 - **Maintenance & Updates** – Ensuring WordPress sites stay up to date and run smoothly.
+- **AI Integration** – LLM APIs, MCP server setups enabling AI agents to interact with WordPress data.
 
 ## 🔧 Skills & Technologies:
 - **Languages:** HTML, CSS, JavaScript, PHP, MySQL
-- **Tools:** Git, Composer, npm
-- **Frameworks:** Bootstrap, jQuery, React
+- **Tools:** Git, Composer, npm, Claude, Cursor, ChatGPT, Google Gemini
+- **Frameworks:** Bootstrap, Laravel
+- **Library:** jQuery, React
 - **CMS Expertise:** WordPress, WooCommerce
 - **Version Control:** Git, GitHub, Bitbucket
 - **Others:** REST API, Elementor, Advanced Custom Fields (ACF), WP-CLI
