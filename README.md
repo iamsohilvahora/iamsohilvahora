@@ -40,6 +40,7 @@ I actively contribute into the WordPress community. Some of my contributions inc
 ## 🌱 Currently Learning:
 - React Library
 - Laravel Framework
+- AI Integration
 
 ## 📬 Get In Touch:
 - 📧 Email: [vohrasohil693@gmail.com](mailto:vohrasohil693@gmail.com)
