@@ -20,7 +20,7 @@ I’m a WordPress Backend Developer with a passion for building high-quality, us
 - **Tools:** Git, Composer, npm, Claude, Cursor, ChatGPT, Google Gemini
 - **Frameworks:** Bootstrap, Laravel
 - **Library:** jQuery, React
-- **CMS Expertise:** WordPress, WooCommerce
+- **CMS Expertise:** WordPress, WooCommerce, Headless WordPress
 - **Version Control:** Git, GitHub, Bitbucket
 - **Others:** REST API, Elementor, Advanced Custom Fields (ACF), WP-CLI
 
